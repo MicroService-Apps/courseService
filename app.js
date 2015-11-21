@@ -29,7 +29,6 @@ app.put('/course/:cid', course.createCourse);
 app.post('/course/:cid', course.updateCourse);
 app.delete('/course/:cid', course.deleteCourse);
 app.delete('/course/:cid/:uni', course.deleteStudent);
-app.patch('/course', course.config);
 app.patch('/course/revert', course.revert);
 app.patch('/course/config/:field', course.addField);
 

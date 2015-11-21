@@ -12,6 +12,7 @@ exports.DELETE_COURSE = "delete an existing course";
 exports.UPDATE_COURSE = "update an existing course";
 exports.ADD_STUDENT_INTO_COURSE = "add a student into a course";
 exports.DELETE_STUDENT_FROM_COURSE = "delete a student from a course";
+exports.ADD_FIELD = "add a new field";
 
 // log message depending on different service
 exports.logMsg = function(string, service){
