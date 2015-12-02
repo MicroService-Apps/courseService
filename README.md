@@ -3,7 +3,7 @@
 ## usage
 ./run.sh <port #>
 
-# Code structure
+## Code structure
 app.js: define url path.
 
 /routes: define student operations.
