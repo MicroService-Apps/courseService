@@ -6,7 +6,7 @@
 ## Code structure
 app.js: define url path.
 
-/routes: define student operations.
+/routes: define course operations.
 
 /utils: log operaions, mongodb
 
